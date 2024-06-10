@@ -18,6 +18,6 @@
     - [B站地址](https://www.bilibili.com/video/BV16Z4y1U7oU)
     - [官方网站](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010)
 
-2. 3Blue1Brown线性代数视频系列
+2. 3Blue1Brown线性代数系列视频
     - [B站地址](https://www.bilibili.com/video/BV1DN4y1B7ye)
     - [官方网站](https://www.3blue1brown.com/topics/linear-algebra)
